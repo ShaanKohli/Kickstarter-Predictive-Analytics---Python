@@ -1,0 +1,2 @@
+# Kickstarter-Predictive-Analytics---Python
+Kickstarter is an American public-benefit corporation that maintains a global crowdfunding platform focused on creativity and merchandising to help bring creative projects to life. The goal of this project was to formulate regression and classification models to predict the amount of US dollars pledged towards a project (usd_pledged) and whether the project is successful or a failure (state), respectively.
